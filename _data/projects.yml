@@ -6,7 +6,6 @@
   description: | 
 Linux, Bash, PHP, HTML(5)/CSS, Perl, Python, automation scripts (crawlers/scrapers/mirroring/downloading), 
 writing applications, C/C++. 
-
 - name: [SOFTWARE] Operating system development
   link: os-u.ru
   quote: >
@@ -14,7 +13,6 @@ writing applications, C/C++.
   description: | 
 I've participated in new operating system development projects and took part in more than 10 opensource operating systems, 
 alongside with mostly hundred of opensource software (programs).
-
 - name: [CREATING] Multimedia: photo/video/text
   link: TBD
   quote: >
@@ -25,14 +23,12 @@ recording desktop sessions): creating, editing, working with multimedia (audio, 
 Photocameras are my favoutire tools - I make a lot of photos and videos with them since approximately year 2005. 
 I worked as a event photographer in woman's magazine for many years and have a lot of experience in batch photo/video
 editing with opensource tools like <mark>imagemagick</mark>, darktable, etc.
-
 - name: [DESIGN] Tabletop game development
   link: TBD
   quote: >
     Not only a computer & tabletop game player, but also a developer!
   description: | 
 I can't say I'm too proud of the computer games I created, but if we talk about tabletop games - here you are! Together with my Rostov mates we developed a conspiracy game and now we are searching for a market for this game.
-
 - name: [AUDIT] Networks, software and hardware analysis
   link: TBD
   quote: >
@@ -40,7 +36,6 @@ I can't say I'm too proud of the computer games I created, but if we talk about 
   description: | 
 As a network security specialist and can help in a variety of situations such as performing a local/wireless network security audit, searching for important data or lost passwords, regaining access, etc. I can perform a forensics/security test of your 
 web/application to ensure that it hasn't serious security issues. 
-
 - name: [HARDWARE] Hardware development (3D printing, drones, smart homes and matrix screen solutions)
   link: TBD
   quote: >
@@ -52,14 +47,12 @@ a large octocopter that can handle 8 kilograms and performs as professional aeri
 drone for less than 500$. I also worked a lot also with access control with RFID/NFC, Raspberry Pi, 
 Bluetooth, OBDII, wifi and X11 stacks. If you need affordable matrix screen for your office or home -
 easily done! And the most important - I know how to combine all systems together in solid solution.
-
 - name: [INVEST] Crowdfunding (fiat & crypto)
   link: metacrowd.ru
   quote: >
     While I worked with local startupers, we launched several crowdfunding campaigns.
   description: | 
 As a supporter, I funded 10+ projects on different platforms and started my own projects, too. I also build a small wikipedia about crowdfunding.
-
 - name: [FINTECH] Payments systems & Cryptocurrency projects
   link: http://cryptowidgets.rf.gd
   quote: >
@@ -70,7 +63,6 @@ I've owned a small hand-build mining farm, helped building a farm for 1000 GPUs 
 written my own bitcoin trading robots. Used mining pools and online altcoin exchanges. I've also made some 
 publications on that, and made several presentations on different forums. With my team of coders, we helped run 
 several ICOs and wrote some of the cryptocurrency-related web platforms.
-
 - name: [BLOGGING] Writing an articles to crypto-blogs
   link: 
   quote: >
@@ -78,7 +70,6 @@ several ICOs and wrote some of the cryptocurrency-related web platforms.
   description: | 
 Important to mention that I am also expert in system analysis and software/internet researches. I have several 
 publications and researches on different topics. I've developed own methodologies to perform different kinds of research.
-
 - name: [TRANSLATION] Translating a software
   link: https://rockbox.org
   quote: >
@@ -86,7 +77,6 @@ publications and researches on different topics. I've developed own methodologie
   description: |
 That's why I helped teams like Rockbox, WhyLinuxIsBetter and other software/websites to translate their 
 content to/from Russian.
-
 - name: [MANAGEMENT] Leading a teams of software & hardware developers and sales teams
   link: 
   quote: >
@@ -99,7 +89,6 @@ Also, we are with my teams developing several linux distributions: one for embed
 into electric cars, another one for web terminals/jukeboxes/gameboxes, and another one for 
 desktops and laptops (mainstream users). I have many solutions in different situations that 
 can be used as a templates - that is why I am working fast and efficient. 
-
 - name: [EVENTS] Organising & taking part in events
   link: 
   quote: >
@@ -115,7 +104,6 @@ community and others. As for forums, I've participated as a speaker, visitor, an
 on more than 100 Russian and international events, forums, including ones about technology, 
 multimedia, news, modern cities, society and innovations, phylosophy, psychology, and more - 
 across whole Russia including very long distance spots (e.g. Irkutsk).
-
 - name: [ECOLOGY] Solar roofs, converting a car to electric, smart home hardware development
   link: 
   github: 
