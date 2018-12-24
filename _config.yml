@@ -32,15 +32,18 @@ about_content: | # this will include new lines to allow paragraphs
   
 # Projects Section
 projects_title: MYEV - Electric Vehicles Community in Russia
-projects_content: Blahblahblah
+projects_content: |
+Blahblahblah
 
 # Experience Section
 experience_title: Experience
-experience_content: Blahblah
+experience_content: |
+Blahblah
 
 # Education Section
 educaton_title: Education
-education_content: Blahblah
+education_content: |
+Blahblah about education
 
 # More Section
 # more_title: A Little More About Me
