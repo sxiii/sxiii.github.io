@@ -5,7 +5,7 @@ repository: sxiii/sxiii.github.io
 # Personal info
 name: Den Ivanov
 title: IT-Manager & Bachelor of Business Administration
-email: sxiii@pm.me, securityxiii@gmail.com
+email: sxiii@pm.me
 website: sxiii.ru
 
 # Social links
@@ -26,7 +26,7 @@ about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Den and I'm an IT-Manager.
 
-  I am most skilled in: <mark>Linux</mark>, <mark>Bash</bash>, <mark>HTML/CSS</mark>, <mark>PHP</mark>, <mark>Python</mark>, and <mark>Eating Pizza</mark>
+  I am most skilled in: <mark>Linux</mark>, <mark>Bash</mark>, <mark>HTML/CSS</mark>, <mark>PHP</mark>, <mark>Python</mark>, and <mark>Eating Pizza</mark>
 
   Also I'm a cryptoblogger, opensource software and electric vehicles expert.
   
@@ -50,7 +50,7 @@ more_content: | # this will include new lines to allow paragraphs
    - Travelling
    - [Blogging](https://steemit.com/@sxiii)
    - Gaming
-   - Knitting
+
 
 # Footer
 footer_show_references: true
