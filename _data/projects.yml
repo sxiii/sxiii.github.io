@@ -56,8 +56,9 @@
     drone for less than 500$. I also worked a lot also with access control with RFID/NFC, Raspberry Pi, 
     Bluetooth, OBDII, wifi and X11 stacks. If you need affordable matrix screen for your office or home -
     easily done! And the most important - I know how to combine all systems together in solid solution.
-    As for smart home soultions, we developed a solar collector system controller and a unique solar roof
-    controller. Most parts of our work are published online by me and the team.
+    As for smart home soultions, look at the "ECOLOGY" section. Our work is published online by me and the team.
+    Also, we developed a turn-key solutions for small data-centers like cryptocurrency mining farms. There we
+    managed to develop an effictive HVAC system along with power distrubution, packaging, security, remote control etc.
 # # #
 - name: INVEST — Crowdfunding (fiat & crypto)
   link: metacrowd.ru
@@ -78,6 +79,7 @@
     publications on that, and made several presentations on different forums. With my team of coders, we helped run 
     several ICOs and wrote some of the cryptocurrency-related web platforms. Also I've managed to gather & categorize
     links to more than 1000 of crytocurrency-related projects and published them on online wiki "metalist.space".
+    As stated in the "HARDWARE" section, we developed three mining farms, one of which is handling more than 1000 GPUs total.
 # # #
 - name: BLOGGING — Writing an articles to crypto-blogs
   link: 
@@ -88,7 +90,7 @@
     publications and researches on different topics. I've developed own methodologies to perform different kinds of research.
     Scroll down to see different links to my cryptoblogs.
 # # #
-- name: TRANSLATION — Translating software
+- name: TRANSLATION — Making software globally accessible
   link: https://rockbox.org
   quote: >
     I'm native russian but still speak and translate english quite well. Currently also I'm learning norwegian, and
@@ -96,7 +98,8 @@
   description: |
     That's why I helped teams like Rockbox, WhyLinuxIsBetter and other software/websites to translate their 
     content to/from Russian.
-- name: MANAGEMENT — Leading a teams of software & hardware developers and sale teams
+# # #
+- name: MANAGEMENT — Leading a teams of developers and sales
   link: 
   quote: >
     Launched an electric vehicles community in my local region, started a development of EV charger
@@ -109,4 +112,37 @@
     desktops and laptops (mainstream users). I have many solutions in different situations that 
     can be used as a templates - that is why I am working fast and efficient. 
 # # #
-# # # MINING
+- name: EVENTS — Organising & taking part in events
+  link: 
+  quote: >
+    Being a student's teacher for few years, I also decided someday that it's good to make own events
+  description: |
+    Sometimes I take my time to give presentations, join different innovations forums (like Seliger), 
+    make open seminars, courses, webinars etc. I've translated several english-only courses to 
+    Russian and presented them (an example: 6 week-length course from IDEO and +Acumen called 
+    "Human-Centered Design Methodology" (HCD)). I was taking active part in education life of southern 
+    part of Russia, being also a member of TED community here. I am in-touch with 
+    regional Linux user group (LUG), Alt Linux team, IT61 rostov regional IT community, FabLab 
+    community and others. As for forums, I've participated as a speaker, visitor, and organiser 
+    on more than 100 Russian and international events, forums, including ones about technology, 
+    multimedia, news, modern cities, society and innovations, phylosophy, psychology, and more - 
+    across whole Russia including very long distance spots (e.g. Irkutsk).
+# # #
+- name: ECOLOGY — Solar roofs, converting a car to electric, smart home hardware development
+  link: 
+  github: 
+  quote: >
+    Nice thing to do, if you have an old ICE car and want to save it.
+  description: | # this will include new lines to allow paragraphs
+    Also I am working with multiple (mostly these can be called 'offline') projects, featuring ecology 
+    as the most important option: we develop electric cars and smart homes solutions. Speaking about electric 
+    cars, we are working towards selling EVs, converting gasoline cars to EVs, and also selling parts and 
+    servicing electric cars, providing electric cars with onboard clever PC with navigation, safety features etc. 
+    Speaking about smart homes, I developed complex solutions to provide customers with eco-house with zero-emission, 
+    clever ventilation, lighting and electricity system, and much more. Smart home solutions also included solar
+    panels and solar collector controlling systems. 
+    For all mentioned tasks I use free and opensource software. I can summarize myself as open 
+    hardware and open software geek/addict/software freedom activist. I am also voting for privacy, 
+    constitution, freedom of the word and thought, and I am member of Pirate Party in Russia and 
+    worldwide. I believe in future resource-based balanced communism without religions, money and wars.
+# # #
