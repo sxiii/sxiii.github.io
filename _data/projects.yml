@@ -6,7 +6,7 @@
     Short overview of the project (optional)
   description: | # this will include new lines to allow paragraphs
     Description about the work on/with the project
-- name: SOFTWARE: Coding skills
+- name: SOFTWARE — Coding skills
   link: github.com/sxiii
   github: github.com/sxiii
   quote: >
@@ -14,3 +14,10 @@
   description: | 
     Linux, Bash, PHP, HTML(5)/CSS, Perl, Python, automation scripts (crawlers/scrapers/mirroring/downloading), 
     writing applications, C/C++. 
+- name: SOFTWARE — Operating system development
+  link: os-u.ru
+  quote: >
+    Tooking part in development & developing systems on my own
+  description: | 
+    I've participated in new operating system development projects and took part in more than 10 opensource operating systems, 
+    alongside with mostly hundred of opensource software (programs).
