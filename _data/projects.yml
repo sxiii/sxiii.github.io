@@ -6,7 +6,7 @@
     Short overview of the project (optional)
   description: | # this will include new lines to allow paragraphs
     Description about the work on/with the project
-- name: [SOFTWARE] Coding skills
+- name: {SOFTWARE} Coding skills
   link: github.com/sxiii
   github: github.com/sxiii
   quote: >
