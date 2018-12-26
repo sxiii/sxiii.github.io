@@ -22,10 +22,11 @@
     Worked more than 10 years as a event photographer - and I did traveled alot with my Canon 40D and now Canon M.
   description: | 
     Along with being an photographer, I have a video experience videos (from livestreaming to making clips & recording 
-    desktop sessions). Creating, editing, working with multimedia (audio, images, video, text). 
+    desktop sessions). Creating, editing, working with multimedia (audio, images, video, text, streams). 
     Photocameras are my favoutire tools - I make a lot of photos and videos with them since approximately year 2005. 
     I worked as a event photographer in woman's magazine for many years and have a lot of experience in batch photo/video
     editing with opensource tools like <mark>imagemagick</mark>, darktable, etc.
+    Event streaming and publishing articles on cryptoblogs is another casual task along with making presentations and lectures.
 # # #
 - name: DESIGN — Tabletop game development
   link: TBD
@@ -115,7 +116,7 @@
 - name: EVENTS — Organising & taking part in events
   link: 
   quote: >
-    Being a student's teacher for few years, I also decided someday that it's good to make own events
+    I took part in a hundreds of events and then decided that I'm ready to make own events
   description: |
     Sometimes I take my time to give presentations, join different innovations forums (like Seliger), 
     make open seminars, courses, webinars etc. I've translated several english-only courses to 
@@ -127,6 +128,16 @@
     on more than 100 Russian and international events, forums, including ones about technology, 
     multimedia, news, modern cities, society and innovations, phylosophy, psychology, and more - 
     across whole Russia including very long distance spots (e.g. Irkutsk).
+# # #
+- name: TEACHING — Experience in univercity and colledge
+  link: 
+  quote: >
+    Being a student's teacher for few years
+  description: |
+    I've developed my own teaching methodology with a lot of presentations (both from me and from students),
+    experience exchange and practice. Students loved me a lot and some of them later formed my development
+    sub-teams. I've also took part in TEDx events, speaked in different univercities about ecological problems.
+    Students are still using my materials from time to time, I also published an small interactive book on scripting.
 # # #
 - name: ECOLOGY — Solar roofs, converting a car to electric, smart home hardware development
   link: 
