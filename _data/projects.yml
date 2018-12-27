@@ -15,7 +15,7 @@
     I've participated in new operating system development projects and took part in more than 10 opensource operating systems, alongside with mostly hundred of opensource software (programs). There's [my article on liveboot linux flash](https://bit.ly/linuxflash-eng).
 # # #
 - name: MULTIMEDIA — Creating sutff (photos/videos/presentations/texts)
-  link: TBD
+  link: youtube.com/user/securityxiii/videos
   quote: >
     Worked more than 10 years as a event photographer - and I did traveled alot with my Canon 40D and now Canon M.
   description: | 
@@ -27,7 +27,7 @@
     Event streaming and [publishing articles on cryptoblogs](https://bit.ly/cryptoproofs) is another casual task along with [making presentations](https://bit.ly/cryptohyip) and lectures.
 # # #
 - name: DESIGN — Tabletop game development
-  link: TBD
+  link: InProgress
   quote: >
     Not only a computer & tabletop game player, but also a developer!
   description: | 
@@ -35,7 +35,8 @@
      Together with my Rostov mates we developed a conspiracy game and now we are searching for a market for this game.
 # # #
 - name: AUDIT — Networks, software and hardware analysis
-  link: TBD
+  link: https://github.com/sxiii/distrowatch-scraper/
+  github: sxiii/distrowatch-scraper
   quote: >
     Being a network technician and skilled in microelectronics, too.
   description: | 
@@ -45,7 +46,7 @@
      have experience in reverse-engeneering and anylizing the android applications, linux desktop software and websites.
 # # #
 - name: HARDWARE — Devices development (3D printing, drones, smart homes and matrix screen solutions)
-  link: TBD
+  link: bit.ly/hwmeetup
   quote: >
     We did supplied a smart home and matrix screen solutions in my home market (Rostov-on-Don); developed a drone
   description: | 
@@ -82,7 +83,7 @@
     Someday we hope to make [a cryptocurrency bank](https://bit.ly/metawall) where people will have their full control on everything, as long as [fair cryptocompetitor](https://bit.ly/metarent) to booking/airbnb services.
 # # #
 - name: BLOGGING — Writing an articles to crypto-blogs
-  link: 
+  link: steemit.com/@sxiii
   quote: >
     Crypto-projects, from small to large scale
   description: | 
@@ -91,7 +92,7 @@
     Scroll down to see different links to my cryptoblogs.
 # # #
 - name: TRANSLATION — Making software globally accessible
-  link: https://rockbox.org
+  link: rockbox.org
   quote: >
     I'm native russian but still speak and translate english quite well. Currently also I'm learning norwegian, and
     i can understand a little spanish and italian.
@@ -100,7 +101,7 @@
     content to/from Russian.
 # # #
 - name: MANAGEMENT — Leading a teams of developers and sales
-  link: 
+  link: bit.ly/metanetwork
   quote: >
     Launched an electric vehicles community in my local region, started a development of EV charger
   description: |
@@ -115,7 +116,7 @@
     of coordinated help, interaction and exchange between people along with voting system, AI scoring and more.
 # # #
 - name: EVENTS — Organising & taking part in events
-  link: 
+  link: meta.timepad.ru
   quote: >
     I took part in a hundreds of events and then decided that I'm ready to make own events
   description: |
@@ -130,19 +131,18 @@
     multimedia, news, modern cities, society and innovations, phylosophy, psychology, [crypto](https://bit.ly/blockchainuniverse), and more - across whole Russia including very long distance spots (e.g. Irkutsk).
     In the beginning of 2018 we've [made a cryptohackathon with 7,500$ prizefund](https://bit.ly/blockchain-hackathon).
 # # #
-- name: TEACHING — Experience in univercity and colledge
-  link: 
+- name: TEACHING — Experience in university and colledge
+  link: rksi.ru
   quote: >
     Being a student's teacher for few years
   description: |
     I've developed my own teaching methodology with a lot of presentations (both from me and from students),
     experience exchange and practice. Students loved me a lot and some of them later formed my development
     sub-teams. I've also took part in TEDx events, speaked in different univercities about ecological problems.
-    Students are still using my materials from time to time, I also published an small interactive book on scripting.
+    Students are still using my materials from time to time, I also published an [small interactive book on scripting](https://github.com/sxiii/bash-studybook).
 # # #
 - name: ECOLOGY — Solar roofs, electric cars, smart home hardware development
-  link: 
-  github: 
+  link: bit.ly/metahome
   quote: >
     Nice thing to do, if you have an old ICE car and want to save it.
   description: | # this will include new lines to allow paragraphs
