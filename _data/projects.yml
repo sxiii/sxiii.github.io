@@ -13,8 +13,7 @@
   quote: >
     Tooking part in development & developing systems on my own
   description: | 
-    I've participated in new operating system development projects and took part in more than 10 opensource operating systems, 
-    alongside with mostly hundred of opensource software (programs). There's [my article on liveboot linux flash](bit.ly/linuxflash-eng).
+    I've participated in new operating system development projects and took part in more than 10 opensource operating systems, alongside with mostly hundred of opensource software (programs). There's [my article on liveboot linux flash](bit.ly/linuxflash-eng).
 # # #
 - name: MULTIMEDIA — Creating sutff (photos/videos/presentations/texts)
   link: TBD
@@ -74,12 +73,11 @@
   quote: >
     Crypto-projects, from small to large scale
   description: | 
-    [Payments systems development](bit.ly/cryptoplastic), including bitcoins and altcoins (and also yandex.money, webmoney, paypal, okpay, and others). 
-    I've owned a small hand-build mining farm, helped building a farm for 1000 GPUs as an architect; traded bitcoins, 
+    [Payments systems development](bit.ly/cryptoplastic), including [bitcoins and altcoins](bit.ly/cryptowallets) (and also yandex.money, webmoney, paypal, okpay, and others). 
+    I've owned a small hand-build [mining farm](bit.ly/cryptominingpools), helped building a farm for 1000 GPUs as an architect; traded bitcoins, 
     written my own bitcoin trading robots. Used mining pools and online altcoin exchanges. I've also made some 
     publications on that, and made several presentations on different forums. With my team of coders, we helped run 
-    several ICOs and wrote some of the [cryptocurrency-related web platforms](bit.ly/cryptolinks). Also I've managed to gather & categorize
-    links to more than 1000 of crytocurrency-related projects and published them on online wiki "metalist.space".
+    several ICOs and wrote some of the [cryptocurrency-related web platforms](bit.ly/cryptolinks). Also I've managed to gather & categorize links to [more than 1000 of crytocurrency-related projects](bit.ly/cryptolist) and published them on online wiki "metalist.space".
     As stated in the "HARDWARE" section, we developed three mining farms, one of which is handling more than 1000 GPUs total.
 # # #
 - name: BLOGGING — Writing an articles to crypto-blogs
@@ -139,14 +137,14 @@
     sub-teams. I've also took part in TEDx events, speaked in different univercities about ecological problems.
     Students are still using my materials from time to time, I also published an small interactive book on scripting.
 # # #
-- name: ECOLOGY — Solar roofs, converting a car to electric, smart home hardware development
+- name: ECOLOGY — Solar roofs, electric cars, smart home hardware development
   link: 
   github: 
   quote: >
     Nice thing to do, if you have an old ICE car and want to save it.
   description: | # this will include new lines to allow paragraphs
     Also I am working with multiple (mostly these can be called 'offline') projects, featuring ecology 
-    as the most important option: we develop electric cars and smart homes solutions. Speaking about electric 
+    as the most important option: [we develop electric cars](bit.ly/myevru) and [smart homes solutions](bit.ly/metahome). Speaking about electric 
     cars, we are working towards selling EVs, converting gasoline cars to EVs, and also selling parts and 
     servicing electric cars, providing electric cars with onboard clever PC with navigation, safety features etc. 
     Speaking about smart homes, I developed complex solutions to provide customers with eco-house with zero-emission, 
