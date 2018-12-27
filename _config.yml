@@ -70,10 +70,7 @@ educaton_title: Education
 # More Section
 # more_title: A Little More About Me
 more_content: | # this will include new lines to allow paragraphs
-  Alongside my interests in hardware and software engineering some of my other interests and hobbies are:
-   - Photography
-   - Travelling
-   - Blogging
+  When I have free time, I do coding and blogging. Here are some of my blogs:
    - [Steemit](https://steemit.com/@sxiii)
    - [Golos](https://golos.io/@sxiii)
    - [VOX](https://vox.community/@sxiii)
@@ -86,6 +83,8 @@ more_content: | # this will include new lines to allow paragraphs
    - [Bearshares](https://bearshares.com/@sxiii)
    - [WeYouMe](https://alpha.weyoume.io/@sxiii)
    - [Gaming](https://steamcommunity.com/id/sxiii/)
+
+   Also, I am huge fan of traveling and photography, heavy melodic music so you can meet me at nearly any place of the world.
 
 # Footer
 footer_show_references: true
