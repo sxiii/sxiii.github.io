@@ -5,8 +5,7 @@
   quote: >
     I'm mostly universal coder, but I prefer web technologies and multiplatform coding.
   description: | 
-    Linux, Bash, PHP, HTML(5)/CSS, Perl, Python, automation scripts (crawlers/scrapers/mirroring/downloading), 
-    writing applications, C/C++. 
+    Linux, Bash, PHP, HTML(5)/CSS, Perl, Python, [automation scripts](https://github.com/sxiii) (crawlers/scrapers/mirroring/downloading), applications, C/C++. 
 # # #
 - name: SOFTWARE — Operating system development
   link: os-u.ru
@@ -25,7 +24,7 @@
     Photocameras are my favoutire tools - I make a lot of photos and videos with them since approximately year 2005. 
     I worked as a event photographer in woman's magazine for many years and have a lot of experience in batch photo/video
     editing with opensource tools like <mark>imagemagick</mark>, darktable, etc.
-    Event streaming and publishing articles on cryptoblogs is another casual task along with [making presentations](https://bit.ly/cryptohyip) and lectures.
+    Event streaming and [publishing articles on cryptoblogs](https://bit.ly/cryptoproofs) is another casual task along with [making presentations](https://bit.ly/cryptohyip) and lectures.
 # # #
 - name: DESIGN — Tabletop game development
   link: TBD
@@ -111,7 +110,9 @@
     Also, we are with my teams developing several linux distributions: one for embedding 
     into electric cars, another one for web terminals/jukeboxes/gameboxes, and another one for 
     desktops and laptops (mainstream users). I have many solutions in different situations that 
-    can be used as a templates - that is why I am working fast and efficient. 
+    can be used as a templates - that is why I am working fast and efficient.
+    My [most important management project is METANETWORK](https://bit.ly/metanetwork), where I'm trying to create a network
+    of coordinated help, interaction and exchange between people along with voting system, AI scoring and more.
 # # #
 - name: EVENTS — Organising & taking part in events
   link: 
