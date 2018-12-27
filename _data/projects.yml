@@ -35,7 +35,7 @@
      Together with my Rostov mates we developed a conspiracy game and now we are searching for a market for this game.
 # # #
 - name: AUDIT — Networks, software and hardware analysis
-  link: https://github.com/sxiii/distrowatch-scraper/
+  link: github.com/sxiii/distrowatch-scraper/
   github: sxiii/distrowatch-scraper
   quote: >
     Being a network technician and skilled in microelectronics, too.
@@ -69,7 +69,7 @@
     I also build a small wikipedia about crowdfunding.
 # # #
 - name: FINTECH — Payment systems & Cryptocurrency projects
-  link: http://cryptowidgets.rf.gd
+  link: cryptowidgets.rf.gd
   quote: >
     Crypto-projects, from small to large scale
   description: | 
