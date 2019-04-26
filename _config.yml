@@ -10,9 +10,9 @@ website: sxiii.github.io
 phone: +47 987 70 410, +790 444 000 30
 
 # Social links
-# twitter_username: sxiii
-# github_username:  sxiii
-# facebook_username: sxiii
+twitter_username: sxiii
+github_username:  sxiii
+facebook_username: sxiii
 # dribbble_username: jekyll
 # flickr_username: jekyll
 # instagram_username: securityxiii
@@ -27,9 +27,9 @@ about_profile_image: images/profile.png
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Den and I'm an IT-Manager.
 
-  [I am most skilled in](https://resume.github.io/?sxiii): <mark>Linux</mark>, <mark>Bash</mark>, <mark>HTML/CSS</mark>, <mark>PHP</mark>, <mark>Python</mark>, and <mark>Eating Pizza</mark>
+  [I am most skilled in](https://resume.github.io/?sxiii): <mark>Linux</mark>, <mark>Bash</mark>, <mark>Web (Javascript/HTML/CSS)</mark>, <mark>PHP</mark>, <mark>Python</mark>, <mark>Cryptocurrencies</mark>, <mark>Blogging</mark>, <mark>Management</mark>, <mark>Hardware development</mark>, and <mark>Eating Pizza</mark>
   
-  If you want a short summary, I'm a cryptoblogger, photographer, opensource software developer and electric vehicles expert.
+  If you want a short summary, I'm a opensource software developer, cryptoblogger, photographer, and electric vehicles expert.
   
   For the long story, keep on reading:
    
