@@ -29,8 +29,11 @@ about_content: | # this will include new lines to allow paragraphs
 
   [I am most skilled in](https://resume.github.io/?sxiii): <mark>Linux</mark>, <mark>Bash</mark>, <mark>Web (Javascript/HTML/CSS)</mark>, <mark>PHP</mark>, <mark>Python</mark>, <mark>Cryptocurrencies</mark>, <mark>Blogging</mark>, <mark>Management</mark>, <mark>Hardware development</mark>, and <mark>Eating Pizza</mark>
   
-  If you want a short summary, I'm a opensource software developer, cryptoblogger, photographer, and electric vehicles expert.
+  I'm opensource software developer, cryptoblogger, photographer, and electric vehicles expert.
   
+   <button onclick="myFunction()">Click Me</button>
+   <div id="myDIV">This is my DIV element.</div> 
+
   For the long story, keep on reading:
    
   I am an open-minded, ready to learn and to do person, always looking at alternative 
