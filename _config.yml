@@ -58,17 +58,7 @@ about_content: | # this will include new lines to allow paragraphs
 
   In the modern time I am becoming skillful techno-urbanist and I love to build comfortable and 
   techy space for human being. Planning to create a well-projected city/community in the nearest future.
-</div> 
-<script>
-function myFunction() {
-  var x = document.getElementById("myDIV");
-  if (x.style.display === "none") {
-    x.style.display = "block";
-  } else {
-    x.style.display = "none";
-  }
-} 
-</script>
+</div>
 
 # Projects Section
 projects_title: My projects
