@@ -35,6 +35,20 @@ about_content: | # this will include new lines to allow paragraphs
   solutions that helps to create innovative, eco-friendly and people-ish things. 
   And I believe that knowledge belongs to each of us and to all of us, to whole humanity!
 
+  If you want to read more, press the button below.
+
+# Projects Section
+projects_title: My projects
+
+# Experience Section
+experience_title: Experience
+
+# Education Section
+educaton_title: Education
+
+# More Section
+# more_title: A Little More About Me
+more_content: | # this will include new lines to allow paragraphs
   In my work, I am hardware and software engineer. I developed several hardware solutions, 
   including drones, 3D printers, home automation, business automation (sun collector system, 
   automatic sprinklers, etc.), developing microelectronics, electric vehicles and more. 
@@ -56,22 +70,12 @@ about_content: | # this will include new lines to allow paragraphs
 
   In the modern time I am becoming skillful techno-urbanist and I love to build comfortable and 
   techy space for human being. Planning to create a well-projected city/community in the nearest future.
-
-# Projects Section
-projects_title: My projects
-
-# Experience Section
-experience_title: Experience
-
-# Education Section
-educaton_title: Education
-
-# More Section
-# more_title: A Little More About Me
-more_content: | # this will include new lines to allow paragraphs
-   I often do coding and blogging for myself. Here are some of my blogs: [Steemit](https://steemit.com/@sxiii), [Golos](https://golos.io/@sxiii), [VOX](https://vox.community/@sxiii), [Whaleshares](https://whaleshares.io/@sxiii), [Serey](https://serey.io/@sxiii), [Scorum](https://scorum.com/en-us/profile/@sxiii), [Weku](https://deals.weku.io/@sxiii), [VIZ](https://viz.world/@sxiii), [Smoke](https://smoke.network/@sxiii), [Bearshares](https://bearshares.com/@sxiii), [WeYouMe](https://alpha.weyoume.io/@sxiii).
-   Also, I am huge fan of traveling and photography, heavy melodic music so you can meet me at nearly any place of the world.
-   And, of course, sometimes I'm a gamer. Take a look at my [steam profile](https://steamcommunity.com/id/sxiii/).
+  
+  I often do coding and blogging for myself. Here are some of my blogs: [Steemit](https://steemit.com/@sxiii), [Golos](https://golos.io/@sxiii), [VOX](https://vox.community/@sxiii), [Whaleshares](https://whaleshares.io/@sxiii), [Serey](https://serey.io/@sxiii), [Scorum](https://scorum.com/en-us/profile/@sxiii), [Weku](https://deals.weku.io/@sxiii), [VIZ](https://viz.world/@sxiii), [Smoke](https://smoke.network/@sxiii), [Bearshares](https://bearshares.com/@sxiii), [WeYouMe](https://alpha.weyoume.io/@sxiii).
+  
+  Also, I am huge fan of traveling and photography, heavy melodic music so you can meet me at nearly any place of the world.
+  
+  And, of course, sometimes I'm a gamer. Take a look at my [steam profile](https://steamcommunity.com/id/sxiii/).
 
 # Footer
 footer_show_references: true
