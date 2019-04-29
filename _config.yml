@@ -47,7 +47,7 @@ experience_title: Experience
 educaton_title: Education
 
 # More Section
-# more_title: A Little More About Me
+more_title: More About Me
 more_content: | # this will include new lines to allow paragraphs
   In my work, I am hardware and software engineer. I developed several hardware solutions, 
   including drones, 3D printers, home automation, business automation (sun collector system, 
