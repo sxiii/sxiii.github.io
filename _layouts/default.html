@@ -12,6 +12,11 @@
 
             {%- include about.html -%}
 
+            <button onclick="myFunction()">More info...</button>
+            <div id="myDIV">  
+                   {%- include more.html -%}
+            </div>
+            
             {%- if site.data.projects.size > 0 -%}
                 {%- include projects.html -%}
             {%- endif -%}
@@ -24,7 +29,7 @@
                 {%- include education.html -%}
             {%- endif -%}
 
-            {%- include more.html -%}
+
 
         </div>
     </main>
