@@ -31,8 +31,6 @@ about_content: | # this will include new lines to allow paragraphs
   
   I'm opensource software developer, cryptoblogger, photographer, and electric vehicles expert.
   
-   <button onclick="myFunction()">More info...</button>
-   <div id="myDIV">  
   I am an open-minded, ready to learn and to do person, always looking at alternative 
   solutions that helps to create innovative, eco-friendly and people-ish things. 
   And I believe that knowledge belongs to each of us and to all of us, to whole humanity!
@@ -58,7 +56,6 @@ about_content: | # this will include new lines to allow paragraphs
 
   In the modern time I am becoming skillful techno-urbanist and I love to build comfortable and 
   techy space for human being. Planning to create a well-projected city/community in the nearest future.
-</div>
 
 # Projects Section
 projects_title: My projects
